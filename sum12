@@ -1,0 +1,20 @@
+#Is it possible to have a private class? (write a class and try it out! , try protected also!)
+
+package Assesement2;
+
+public class PrivateAndProtected {
+    public static void main(String args[]){
+     /*
+     * we cannot declare a class as private or protected.
+     * It can be either public or default.
+     * If it does not have a modifier, it is supposed to have a default access.*/
+
+        /*we can declare the class as protected,
+         it will throw an error says that modifier protected not allowed here.
+        * */
+
+        /*we can declare the class as private,
+         it will throw an error says that modifier public not allowed here.
+         */
+    }
+}
